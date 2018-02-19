@@ -11,8 +11,8 @@
     <modules>
         <module>Generic</module>
         <module>AliBaba</module>
-        <module>Ebay</module>
         <module>ebay</module>
+
     </modules>
 
     <dependencyManagement>
